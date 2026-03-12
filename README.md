@@ -38,7 +38,7 @@ This application helps users track daily expenses, visualize spending, and expor
 •⁠  ⁠Tkinter (GUI)
 •⁠  ⁠JSON (Data Storage)
 •⁠  ⁠CSV(Export)
-•⁠  ⁠Matplotlib charts & graphs)
+•⁠  ⁠Matplotlib (charts & graphs)
 
 ---
 
