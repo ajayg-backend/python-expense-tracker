@@ -4,6 +4,9 @@ A simple desktop *Expense Tracker application built with Python and Tkinter*.
 
 This application helps users track daily expenses, visualize spending, and export data.
 
+##  Application Preview
+
+![Expense tracker GUI](python-expense-tracker.png)
 ---
 
 ## 🚀 Features
@@ -22,10 +25,10 @@ This application helps users track daily expenses, visualize spending, and expor
 ## 🛠 Tech Stack
 
 •⁠  ⁠Python
-•⁠  ⁠Tkinter
-•⁠  ⁠JSON
-•⁠  ⁠CSV
-•⁠  ⁠Matplotlib
+•⁠  ⁠Tkinter (GUI)
+•⁠  ⁠JSON (Data Storage)
+•⁠  ⁠CSV(Export)
+•⁠  ⁠Matplotlib charts & graphs)
 
 ---
 
@@ -66,4 +69,5 @@ python expense_gui.py
 
 Ajay Shivaji Gavali  
 Python Developer (Learning Projects)
+
 
