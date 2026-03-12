@@ -1,63 +1,68 @@
-💰 Smart Expense Analyzer
+# 💰 Python Expense Tracker (GUI)
 
-A command-line expense tracker built using Python.
+A simple desktop *Expense Tracker application built with Python and Tkinter*.
 
-## 🚀 Features
-
-•⁠  ⁠Add expense with category
-•⁠  ⁠Show total expenses
-•⁠  ⁠Show all expenses
-•⁠  ⁠Category-wise summary
-•⁠  ⁠Clean CLI menu interface
-
-## 🛠 Tech Stack
-
-•⁠  ⁠Python 3
-•⁠  ⁠Functions
-•⁠  ⁠Lists & Dictionaries
-•⁠  ⁠Git & GitHub
-
-## 📂 Project Structure
-
-smart-expense-analyzer/
-│
-├── main.py
-├── calculator.py
-└── README.md
-
-## ▶️ How to Run
-
-1.⁠ ⁠Clone the repository
-
-git clone https://github.com/ajay-backend/smart-expense-analyzer.git
-
-2.⁠ ⁠Go to project folder
-
-cd smart-expense-analyzer
-
-3.⁠ ⁠Run the program
-
-python3 main.py
-
-## 📸 Sample Output
-
-1.⁠ ⁠Add Expense
-2.⁠ ⁠Show total
-3.⁠ ⁠Show all expenses
-4.⁠ ⁠Category summary
-5.⁠ ⁠Exit
-
-## 🎯 Future Improvements
-
-•⁠  ⁠Save expenses to file
-•⁠  ⁠CSV export
-•⁠  ⁠Monthly report
-•⁠  ⁠Web version using Flask
+This application helps users track daily expenses, visualize spending, and export data.
 
 ---
 
-### 👨‍💻 Author
+## 🚀 Features
 
-Ajay Gavali  
-Python Developer (Self-Taught)
+•⁠  ⁠➕ Add expense with item, amount and category
+•⁠  ⁠❌ Delete expenses
+•⁠  ⁠🔎 Search expenses
+•⁠  ⁠📊 Expense graph visualization
+•⁠  ⁠🥧 Pie chart of spending categories
+•⁠  ⁠📁 Export expenses to CSV
+•⁠  ⁠💾 Data stored in JSON
+•⁠  ⁠🖥 Simple Tkinter GUI interface
 
+---
+
+## 🛠 Tech Stack
+
+•⁠  ⁠Python
+•⁠  ⁠Tkinter
+•⁠  ⁠JSON
+•⁠  ⁠CSV
+•⁠  ⁠Matplotlib
+
+---
+
+## 📂 Project Structure
+
+
+expense_gui.py
+expenses.json
+expenses.csv
+README.md
+
+
+---
+
+## ▶️ How to Run
+
+Clone the repository
+
+
+git clone https://github.com/ajayg-backend/python-expense-tracker.git
+
+
+Go to the project folder
+
+
+cd python-expense-tracker
+
+
+Run the program
+
+
+python expense_gui.py
+
+
+---
+
+## 👨‍💻 Author
+
+Ajay Shivaji Gavali  
+Python Developer (Learning Project
